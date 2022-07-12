@@ -5,3 +5,4 @@ VM NAME: WC-xx
 Base Image: Windows 10 Pro 21H1
 Create in the Student-?????? vnet
 ```
+This is test from my local
